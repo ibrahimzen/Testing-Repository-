@@ -1,4 +1,0 @@
-Hello !!
--make some changes to try " diff function ", which show us the differences on our repository
--before and after the adjustment.
- 
